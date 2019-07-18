@@ -1,0 +1,2 @@
+C:\PCF\Controls\demoControlComponent\ControlComponent\obj\Debug\ControlComponent.pcfprojAssemblyReference.cache
+C:\PCF\Controls\demoControlComponent\ControlComponent\obj\Debug\ControlComponent.pcfproj.CoreCompileInputs.cache
